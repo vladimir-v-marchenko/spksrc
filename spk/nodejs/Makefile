@@ -1,5 +1,5 @@
 SPK_NAME = nodejs
-SPK_VERS = 10.15.3
+SPK_VERS = 14.17.1
 SPK_REV = 1
 SPK_ICON = src/node.png
 
